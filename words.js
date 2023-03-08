@@ -76,7 +76,19 @@ let words = [
   "China",
   "France",
   "Australia",
-  "Where are you from?"
+  "Where are you from?",
+  "Bobo",
+  "Buvi",
+  "opa bolalar uchun",
+  "aka bolalar uchun",
+  "opa qizlar uchun",
+  "aka qizlar uchun",
+  "singil",
+  "uka",
+  "biz",
+  "kim",
+  "yes",
+  "no",
 ];
 
 document.querySelector("button").addEventListener("click", () => {
